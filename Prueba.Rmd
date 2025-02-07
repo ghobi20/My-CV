@@ -2,7 +2,8 @@
 title: "Prueba"
 author: "Sofia Gamino"
 date: "2025-02-07"
-output: html_document
+output: html_document:
+  keep_md: true
 ---
 
 ```{r setup, include=FALSE}
