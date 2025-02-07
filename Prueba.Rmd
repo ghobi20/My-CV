@@ -1,5 +1,5 @@
 ---
-title: "Prueba github :3"
+title: "Prueba"
 author: "Sofia Gamino"
 date: "2025-02-07"
 output: html_document
